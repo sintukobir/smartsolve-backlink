@@ -9,5 +9,7 @@
 <body>
   <h1>Welcome to SmartSolveTips Forum Page</h1>
   <p>Get the best tips and guides at <a href="https://www.smartsolvetips.com/" target="_blank">SmartSolveTips.com</a></p>
+<p>For more travel insights, visit <strong><a href="https://www.smartsolvetips.com/">
+SmartSolveTips.com!</a></strong> — your guide to smarter, offbeat adventures.</p>
 </body>
 </html>
